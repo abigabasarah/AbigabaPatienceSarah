@@ -1,0 +1,26 @@
+{
+    "24/U/000001": {
+        "address": "Nansana",
+        "contact": "0987654321",
+        "program": "BSSE",
+        "date_added": "2026-06-28 18:07:34"
+    },
+    "24/U/99999": {
+        "address": "Mpigi",
+        "contact": "0987725434",
+        "program": "BSSE",
+        "date_added": "2026-06-28 19:05:01"
+    },
+    "24/U/0000": {
+        "address": "makindye",
+        "contact": "078999999",
+        "program": "BSC",
+        "last_updated": "2026-06-28 19:14:02"
+    },
+    "24/U/123123": {
+        "address": "Mukono",
+        "contact": "0765555511",
+        "program": "BSSE",
+        "date_added": "2026-06-28 19:24:32"
+    }
+}

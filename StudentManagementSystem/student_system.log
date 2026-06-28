@@ -1,0 +1,108 @@
+2026-06-28 17:43:38 | INFO |  SYSTEM STARTED 
+2026-06-28 17:46:14 | INFO | MENU CHOICE | 1
+2026-06-28 17:47:40 | ERROR | ADD FAILED - Validation: Gender must be Male, Female.
+2026-06-28 17:51:37 | INFO | MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 17:51:37 | WARNING | INVALID MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 17:52:07 | INFO | MENU CHOICE | 1
+2026-06-28 17:55:17 | WARNING |  SYSTEM INTERRUPTED (Ctrl+C) 
+2026-06-28 17:55:24 | INFO |  SYSTEM STARTED 
+2026-06-28 17:55:31 | INFO | MENU CHOICE | 1
+2026-06-28 17:57:17 | WARNING |  SYSTEM INTERRUPTED (Ctrl+C) 
+2026-06-28 17:59:12 | INFO |  SYSTEM STARTED 
+2026-06-28 17:59:19 | INFO | MENU CHOICE | 1
+2026-06-28 17:59:29 | WARNING | ADD FAILED - Duplicate: Student '24/U/0000' already exists in the system.
+2026-06-28 17:59:57 | INFO | MENU CHOICE | 2
+2026-06-28 17:59:57 | INFO | VIEW ALL | 1 records displayed
+2026-06-28 18:06:23 | INFO | MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:06:23 | WARNING | INVALID MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:06:43 | INFO | MENU CHOICE | 1
+2026-06-28 18:07:34 | INFO | ADD | 24/U/000001 | Kato Eric
+2026-06-28 18:12:40 | INFO | MENU CHOICE | 4
+2026-06-28 18:13:22 | INFO | UPDATE | 24/U/0000
+2026-06-28 18:13:34 | INFO | MENU CHOICE | 4
+2026-06-28 18:14:19 | INFO | UPDATE | 24/U/0000
+2026-06-28 18:25:42 | INFO | MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:25:42 | WARNING | INVALID MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:25:44 | INFO | MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:25:44 | WARNING | INVALID MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:25:57 | INFO | MENU CHOICE | 4
+2026-06-28 18:26:09 | INFO | UPDATE | 24/U/0000
+2026-06-28 18:30:27 | INFO | MENU CHOICE | 4
+2026-06-28 18:30:42 | INFO | UPDATE | 24/U/0000
+2026-06-28 18:33:31 | INFO | MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:33:31 | WARNING | INVALID MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:33:36 | INFO | MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:33:36 | WARNING | INVALID MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:33:38 | INFO | MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:33:38 | WARNING | INVALID MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:33:49 | INFO | MENU CHOICE | 4
+2026-06-28 18:35:19 | INFO | UPDATE | 24/U/0000
+2026-06-28 18:56:36 | INFO | MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:56:36 | WARNING | INVALID MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:56:48 | INFO | MENU CHOICE | 4
+2026-06-28 18:56:59 | INFO | UPDATE | 24/U/0000
+2026-06-28 18:57:46 | INFO | MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:57:46 | WARNING | INVALID MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 18:57:51 | INFO | MENU CHOICE | 4
+2026-06-28 18:58:16 | INFO | UPDATE | 24/U/0000
+2026-06-28 19:02:34 | INFO | MENU CHOICE | 1
+2026-06-28 19:03:19 | ERROR | ADD FAILED - Validation: Score 150.0 is out of range. Must be between 0 and 100.
+2026-06-28 19:03:29 | INFO | MENU CHOICE | 2
+2026-06-28 19:03:29 | INFO | VIEW ALL | 2 records displayed
+2026-06-28 19:03:56 | INFO | MENU CHOICE | 1
+2026-06-28 19:05:01 | INFO | ADD | 24/U/99999 | Mateo hann
+2026-06-28 19:05:04 | INFO | MENU CHOICE | 1
+2026-06-28 19:05:40 | ERROR | ADD FAILED - Validation: Age 8 is not realistic for a student (expected 18ï¿½60).
+2026-06-28 19:08:09 | INFO | MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 19:08:09 | WARNING | INVALID MENU CHOICE | python -u "c:\Users\hp\Desktop\python\AbigabaPatienceSarah\student_management.py"
+2026-06-28 19:08:15 | INFO | MENU CHOICE | 1
+2026-06-28 19:08:39 | ERROR | ADD FAILED - Validation: Age 8 is not realistic for a student (expected 18ï¿½60).
+2026-06-28 19:10:08 | INFO |  SYSTEM STARTED 
+2026-06-28 19:10:13 | INFO | MENU CHOICE | 1
+2026-06-28 19:10:33 | ERROR | ADD FAILED - Validation: Age 8 is not realistic for a student (expected 18ï¿½60).
+2026-06-28 19:11:00 | INFO | MENU CHOICE | 4
+2026-06-28 19:11:27 | INFO | UPDATE | 24/U/0000
+2026-06-28 19:12:00 | INFO | MENU CHOICE | 3
+2026-06-28 19:12:08 | INFO | SEARCH | Found: 24/U/0000
+2026-06-28 19:12:24 | INFO | MENU CHOICE | 3
+2026-06-28 19:12:34 | WARNING | SEARCH FAILED - Not found: 24/U/0071
+2026-06-28 19:12:51 | INFO | MENU CHOICE | 4
+2026-06-28 19:13:06 | ERROR | UPDATE FAILED - Validation: Score 180.0 is out of range. Must be between 0 and 100.
+2026-06-28 19:13:16 | INFO | MENU CHOICE | 2
+2026-06-28 19:13:16 | INFO | VIEW ALL | 3 records displayed
+2026-06-28 19:13:43 | INFO | MENU CHOICE | 4
+2026-06-28 19:14:02 | INFO | UPDATE | 24/U/0000
+2026-06-28 19:14:05 | INFO | MENU CHOICE | 5
+2026-06-28 19:14:16 | INFO | DELETE CANCELLED | 24/U/0000
+2026-06-28 19:14:32 | INFO | MENU CHOICE | 2
+2026-06-28 19:14:32 | INFO | VIEW ALL | 3 records displayed
+2026-06-28 19:14:36 | INFO | MENU CHOICE | 1
+2026-06-28 19:14:38 | ERROR | ADD FAILED - Validation: Registration number cannot be empty.
+2026-06-28 19:14:42 | INFO | MENU CHOICE | 1
+2026-06-28 19:15:01 | ERROR | ADD FAILED - Validation: Gender must be Male or Female.
+2026-06-28 19:15:06 | INFO | MENU CHOICE | 1
+2026-06-28 19:15:57 | INFO | ADD | 24/U/0909 | martha mukisa
+2026-06-28 19:16:02 | INFO | MENU CHOICE | 5
+2026-06-28 19:16:19 | INFO | DELETE | 24/U/0909
+2026-06-28 19:16:26 | INFO | MENU CHOICE | 2
+2026-06-28 19:16:26 | INFO | VIEW ALL | 3 records displayed
+2026-06-28 19:16:52 | INFO | MENU CHOICE | 7
+2026-06-28 19:16:52 | WARNING | INVALID MENU CHOICE | 7
+2026-06-28 19:16:54 | INFO | MENU CHOICE | 7
+2026-06-28 19:16:54 | WARNING | INVALID MENU CHOICE | 7
+2026-06-28 19:17:00 | INFO | MENU CHOICE | 7
+2026-06-28 19:17:00 | WARNING | INVALID MENU CHOICE | 7
+2026-06-28 19:23:32 | INFO | MENU CHOICE | 1
+2026-06-28 19:23:39 | WARNING | ADD FAILED - Duplicate: Student '24/U/0000' already exists in the system.
+2026-06-28 19:23:42 | INFO | MENU CHOICE | 1
+2026-06-28 19:24:32 | INFO | ADD | 24/U/123123 | Nambi Alice
+2026-06-28 19:24:37 | INFO | MENU CHOICE | 2
+2026-06-28 19:24:37 | INFO | VIEW ALL | 4 records displayed
+2026-06-28 19:24:43 | INFO | MENU CHOICE | 1
+2026-06-28 19:25:07 | ERROR | ADD FAILED - Validation: Age 15 is not realistic for a student (expected 18–60).
+2026-06-28 19:25:11 | INFO | MENU CHOICE | 2
+2026-06-28 19:25:11 | INFO | VIEW ALL | 4 records displayed
+2026-06-28 19:25:48 | INFO | MENU CHOICE | 2
+2026-06-28 19:25:48 | INFO | VIEW ALL | 4 records displayed
+2026-06-28 19:49:47 | INFO | MENU CHOICE | 6
+2026-06-28 19:49:47 | INFO |  SYSTEM EXITED 
